@@ -10,7 +10,7 @@ NOTES is a simple note-taking application built with React. It uses `localStorag
 
 ## Demo
 
-You can view a live demo of the project [https://notes-nitya-balars-projects.vercel.app](#).
+You can view a live demo of the project [here](https://notes-nitya-balars-projects.vercel.app).
 
 ## Getting Started
 
